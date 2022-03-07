@@ -3,6 +3,7 @@
 <h4 align="center">I'm a Data Scientist at iNeuron Intelligence</h4>
 
 
+
 ### I have technical experience and interest in:
 * Deep Learning
 * Machine Learning
@@ -10,6 +11,8 @@
 * Natural Language Processing 
 * Microcontrollers 
 * Robotics
+
+[My Online Portfolio](https://entbappy.github.io/bappy-portfolio)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,6 +48,7 @@
 [twitter]: https://twitter.com/bappy913873
 [Instagram]: https://www.instagram.com/entbappy/
 [YouTube]: https://www.youtube.com/dswithbappy
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=entbappy&label=Profile%20views&color=0e75b6&style=flat" alt="entbappy" /> </p>
