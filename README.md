@@ -49,7 +49,8 @@
 [Instagram]: https://www.instagram.com/entbappy/
 [YouTube]: https://www.youtube.com/dswithbappy
 
-
+## 💰 You can support me if you liked my work by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dswithbappy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=entbappy&label=Profile%20views&color=0e75b6&style=flat" alt="entbappy" /> </p>
 
