@@ -8,7 +8,9 @@
 * Deep Learning
 * Machine Learning
 * Computer vision 
-* Natural Language Processing 
+* Natural Language Processing
+* MLOps
+* Generative AI 
 * Microcontrollers 
 * Robotics
 
