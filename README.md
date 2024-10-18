@@ -14,7 +14,6 @@
 * Microcontrollers 
 * Robotics
 
-👉[My Online Portfolio](https://entbappy.github.io/bappy-portfolio)
 
 
 <h3 align="left">Languages and Tools:</h3>
